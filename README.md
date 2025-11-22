@@ -1,9 +1,13 @@
 <h2 align="center">
   MyZetta<br/>
-  
 </h2>
 
- An application dedicated to making it easier for you to monitor your Zetta internet service more efficiently.
+An application dedicated to making it easier for you to monitor your Zetta internet service more efficiently.
+ 
+<h2 align="center">
+  <a href="https://play.google.com/store/apps/details?id=id.caliana.zetta" target="_blank">Play Store&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://apps.apple.com/id/app/myzetta/id6740265889" target="_blank">App Store</a>
+</h2>
 
 ## Screenshots
 
